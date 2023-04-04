@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="menuitem_erase">Білий колір</string>
+    <string name="painting_saved">Збережено</string>
+</resources>
